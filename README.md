@@ -51,14 +51,6 @@ _(Hosted on Google Drive)_
 
 ---
 
-## Demo Suggestions
-
-You can attach:
-- A screen recording of webcam detection in action  
-- GIF or video preview in GitHub or LinkedIn  
-- Voice alerts being triggered for different signs
-
----
 
 ⭐ If you liked this project, give it a star on GitHub!
 
