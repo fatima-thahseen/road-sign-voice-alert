@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 *.pkl
 .DS_Store
+vgg16_best_model.keras
