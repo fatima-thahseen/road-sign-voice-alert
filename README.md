@@ -51,7 +51,12 @@ _(Hosted on Google Drive)_
 
 ---
 
+## 📦 Dataset Preparation
 
+The script [`dataset_preparation.py`](dataset_preparation.py) is used to:
+- Crop signs using ROI data from the GTSRB dataset
+- Resize images to 160×160
+- Split the dataset into training and validation sets
 ⭐ If you liked this project, give it a star on GitHub!
 
 
